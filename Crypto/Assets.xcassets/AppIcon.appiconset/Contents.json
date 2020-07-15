@@ -69,4 +69,9 @@
     {
       "filename" : "1024.png",
       "idiom" : "ios-marketing",
-      "scal
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author"
