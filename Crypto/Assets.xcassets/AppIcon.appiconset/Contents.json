@@ -57,4 +57,9 @@
     {
       "filename" : "120.png",
       "idiom" : "iphone",
-      "scale"
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "180.png",
+      "idiom" 
