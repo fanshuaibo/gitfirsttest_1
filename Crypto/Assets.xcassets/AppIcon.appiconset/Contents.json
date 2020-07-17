@@ -74,4 +74,7 @@
     }
   ],
   "info" : {
-    "author"
+    "author" : "xcode",
+    "version" : 1
+  }
+}
