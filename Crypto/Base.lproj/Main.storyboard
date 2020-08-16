@@ -475,3 +475,81 @@
                                     <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter password" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="NxZ-bc-hH0">
                                         <rect key="frame" x="0.0" y="171" width="354" height="40"/>
                                         <constraints>
+                                            <constraint firstAttribute="height" constant="40" id="uRn-7x-TfX"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
+                                    </textField>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BeL-TJ-bKt">
+                                        <rect key="frame" x="50" y="241" width="254" height="40"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="40" id="ttR-lh-801"/>
+                                        </constraints>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="filled" title="Register"/>
+                                        <connections>
+                                            <action selector="registerButtonPressed:" destination="WDr-1d-49m" eventType="touchUpInside" id="vRt-Ix-MIy"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="NxZ-bc-hH0" firstAttribute="leading" secondItem="IFE-pa-jf6" secondAttribute="leading" id="6fZ-G7-jQU"/>
+                                    <constraint firstAttribute="trailing" secondItem="qqT-sD-MXk" secondAttribute="trailing" id="75b-y8-Ri0"/>
+                                    <constraint firstAttribute="trailing" secondItem="NxZ-bc-hH0" secondAttribute="trailing" id="8W3-1s-jHg"/>
+                                    <constraint firstItem="BeL-TJ-bKt" firstAttribute="leading" secondItem="IFE-pa-jf6" secondAttribute="leading" constant="50" id="K6E-NL-aZp"/>
+                                    <constraint firstAttribute="trailing" secondItem="ndj-3J-MTI" secondAttribute="trailing" id="LAE-8s-ueb"/>
+                                    <constraint firstItem="qqT-sD-MXk" firstAttribute="leading" secondItem="IFE-pa-jf6" secondAttribute="leading" id="LhD-QU-W2u"/>
+                                    <constraint firstAttribute="trailing" secondItem="BeL-TJ-bKt" secondAttribute="trailing" constant="50" id="brE-ke-L1Z"/>
+                                    <constraint firstAttribute="trailing" secondItem="to4-q2-p2F" secondAttribute="trailing" id="r4f-X9-PcP"/>
+                                    <constraint firstItem="ndj-3J-MTI" firstAttribute="leading" secondItem="IFE-pa-jf6" secondAttribute="leading" id="yb9-GF-wwK"/>
+                                    <constraint firstItem="to4-q2-p2F" firstAttribute="leading" secondItem="IFE-pa-jf6" secondAttribute="leading" id="zkJ-kY-Pbu"/>
+                                </constraints>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="sFV-lX-d1A"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="IFE-pa-jf6" firstAttribute="centerY" secondItem="88A-VQ-QsE" secondAttribute="centerY" id="CsH-dA-VOI"/>
+                            <constraint firstItem="sFV-lX-d1A" firstAttribute="trailing" secondItem="IFE-pa-jf6" secondAttribute="trailing" constant="30" id="nMZ-dE-WIg"/>
+                            <constraint firstItem="IFE-pa-jf6" firstAttribute="leading" secondItem="sFV-lX-d1A" secondAttribute="leading" constant="30" id="rzK-LL-lge"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Register" id="pA9-T3-waT"/>
+                    <connections>
+                        <outlet property="emailTextField" destination="qqT-sD-MXk" id="vAf-13-7m2"/>
+                        <outlet property="passwordTextField" destination="NxZ-bc-hH0" id="K3C-oa-mrA"/>
+                        <segue destination="BYZ-38-t0r" kind="show" identifier="goToMain1" id="vkU-2z-eWk"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ibx-j4-7yW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="921.73913043478262" y="-301.33928571428572"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="oDH-jf-xYz">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Wfl-Q9-xdI" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="KdU-NI-YHu">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="uYr-6o-gEc" kind="relationship" relationship="rootViewController" id="gBc-Dm-4QF"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Aer-08-o28" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-762.31884057971024" y="99.776785714285708"/>
+        </scene>
+    </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="TRW-Q1-qnt"/>
+    </inferredMetricsTieBreakers>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
