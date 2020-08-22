@@ -10,4 +10,7 @@
 	<string>AIzaSyAq86-AMZx4UqCl2k2SELf0uHXKivIeTu8</string>
 	<key>GCM_SENDER_ID</key>
 	<string>249712102270</string>
-	<key>PLIST_
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.raiymbekduldiy
