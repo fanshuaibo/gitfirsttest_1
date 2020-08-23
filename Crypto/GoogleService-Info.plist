@@ -16,4 +16,8 @@
 	<string>com.raiymbekduldiyev.Crypto</string>
 	<key>PROJECT_ID</key>
 	<string>crypto-54fea</string>
-	<key>STORAGE_BUCK
+	<key>STORAGE_BUCKET</key>
+	<string>crypto-54fea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<
