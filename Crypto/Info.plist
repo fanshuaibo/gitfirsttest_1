@@ -4,4 +4,6 @@
 <dict>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
-		<key>UIAp
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConf
