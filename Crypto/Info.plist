@@ -12,4 +12,6 @@
 			<array>
 				<dict>
 					<key>UISceneConfigurationName</key>
-					<strin
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					
