@@ -21,4 +21,6 @@
                         <constraints>
                             <constraint firstAttribute="width" constant="50" id="HQc-a0-LNr"/>
                         </constraints>
-                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica N
+                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                        <nil key="textColor"/>
+                       
