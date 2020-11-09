@@ -30,4 +30,7 @@
                         <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="20"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
-                   
+                    </label>
+                </subviews>
+                <constraints>
+                 
