@@ -34,4 +34,5 @@
                 </subviews>
                 <constraints>
                     <constraint firstItem="T1C-Eg-Cav" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="BHn-Xc-NJ4"/>
-                    <constraint firstAttribute="bott
+                    <constraint firstAttribute="bottom" secondItem="T1C-Eg-Cav" secondAttribute="bottom" id="G7b-7q-Cqx"/>
+                    
