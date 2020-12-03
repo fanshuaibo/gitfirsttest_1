@@ -36,4 +36,5 @@
                     <constraint firstItem="T1C-Eg-Cav" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="BHn-Xc-NJ4"/>
                     <constraint firstAttribute="bottom" secondItem="T1C-Eg-Cav" secondAttribute="bottom" id="G7b-7q-Cqx"/>
                     <constraint firstItem="T1C-Eg-Cav" firstAttribute="leading" secondItem="eET-5I-qoS" secondAttribute="trailing" id="Pss-mi-N2J"/>
-                    <constraint f
+                    <constraint firstAttribute="bottom" secondItem="eET-5I-qoS" secondAttribute="bottom" id="QZL-AY-gRn"/>
+          
