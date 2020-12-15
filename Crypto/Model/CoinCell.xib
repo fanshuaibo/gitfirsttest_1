@@ -42,4 +42,6 @@
                     <constraint firstItem="eET-5I-qoS" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="25" id="otD-mp-nqk"/>
                 </constraints>
             </tableViewCellContentView>
-            <vi
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+ 
