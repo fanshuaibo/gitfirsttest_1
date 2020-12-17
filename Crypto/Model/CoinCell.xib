@@ -45,4 +45,6 @@
             <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
             <connections>
                 <outlet property="coinLabel" destination="T1C-Eg-Cav" id="XH0-Gc-peq"/>
-                <outlet property="rankLabel" destination=
+                <outlet property="rankLabel" destination="eET-5I-qoS" id="sZw-No-rMi"/>
+            </connections>
+            <point k
