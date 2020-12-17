@@ -44,4 +44,5 @@
             </tableViewCellContentView>
             <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
             <connections>
-                <outlet property="coinLabel" destination="T1C-Eg-Ca
+                <outlet property="coinLabel" destination="T1C-Eg-Cav" id="XH0-Gc-peq"/>
+                <outlet property="rankLabel" destination=
