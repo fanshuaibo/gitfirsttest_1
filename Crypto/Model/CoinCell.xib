@@ -48,4 +48,6 @@
                 <outlet property="rankLabel" destination="eET-5I-qoS" id="sZw-No-rMi"/>
             </connections>
             <point key="canvasLocation" x="137.68115942028987" y="111.16071428571428"/>
-        </tableV
+        </tableViewCell>
+    </objects>
+</document>
