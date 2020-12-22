@@ -6,4 +6,6 @@
 //
 
 import UIKit
-import Al
+import Alamofire
+
+typealias PresenterDelegate = CoinPresenterDelegate & UIView
