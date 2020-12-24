@@ -11,4 +11,9 @@ import Alamofire
 typealias PresenterDelegate = CoinPresenterDelegate & UIViewController
 
 protocol CoinPresenterDelegate: AnyObject {
-    func presentCoins(coins: [Data
+    func presentCoins(coins: [Data])
+    
+    func didFailWithError(error: Error)
+}
+
+class CoinPrese
