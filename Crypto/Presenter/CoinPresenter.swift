@@ -8,4 +8,7 @@
 import UIKit
 import Alamofire
 
-typealias PresenterDelegate = CoinPresenterDelegate & UIView
+typealias PresenterDelegate = CoinPresenterDelegate & UIViewController
+
+protocol CoinPresenterDelegate: AnyObject {
+    func presentCoins(coins: [Data
