@@ -16,4 +16,8 @@ protocol CoinPresenterDelegate: AnyObject {
     func didFailWithError(error: Error)
 }
 
-class CoinPrese
+class CoinPresenter {
+    
+    weak var delegate: PresenterDelegate?
+    
+    private let urlString = "htt
