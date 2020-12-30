@@ -20,4 +20,7 @@ class CoinPresenter {
     
     weak var delegate: PresenterDelegate?
     
-    private let urlString = "htt
+    private let urlString = "https://api.coincap.io/v2/assets"
+    
+    func setViewDelegate(delegate: PresenterDelegate) {
+        s
