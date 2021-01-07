@@ -23,4 +23,8 @@ class CoinPresenter {
     private let urlString = "https://api.coincap.io/v2/assets"
     
     func setViewDelegate(delegate: PresenterDelegate) {
-        s
+        self.delegate = delegate
+    }
+    
+    func performRequest() {
+        AF.req
