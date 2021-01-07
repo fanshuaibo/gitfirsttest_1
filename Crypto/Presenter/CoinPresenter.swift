@@ -27,4 +27,4 @@ class CoinPresenter {
     }
     
     func performRequest() {
-        AF.req
+        AF.request(urlString, parameters: nil, headers: nil).validate(statusCode: 200 ..< 299).re
