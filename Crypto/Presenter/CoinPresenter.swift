@@ -29,4 +29,4 @@ class CoinPresenter {
     func performRequest() {
         AF.request(urlString, parameters: nil, headers: nil).validate(statusCode: 200 ..< 299).responseJSON { [weak self] AFdata in
             do {
-                guard let jsonObj
+                guard let jsonObject = try JSONSerialization.jsonObject(with: AFdata.data!) as? [String: Any
