@@ -31,3 +31,6 @@ class CoinPresenter {
             do {
                 guard let jsonObject = try JSONSerialization.jsonObject(with: AFdata.data!) as? [String: Any] else {
                     print("Error: Cannot convert data to JSON object")
+                    return
+                }
+                guard let prettyJ
