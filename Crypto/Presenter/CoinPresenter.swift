@@ -39,4 +39,5 @@ class CoinPresenter {
                 }
                 
                 do {
-              
+                    let safeData = try JSONDecoder().decode(Coin.self, from: prettyJsonData)
+   
