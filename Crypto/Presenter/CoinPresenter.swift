@@ -35,4 +35,8 @@ class CoinPresenter {
                 }
                 guard let prettyJsonData = try? JSONSerialization.data(withJSONObject: jsonObject, options: .prettyPrinted) else {
                     print("Error: Cannot convert JSON object to Pretty JSON data")
-               
+                    return
+                }
+                
+                do {
+              
