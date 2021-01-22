@@ -41,4 +41,6 @@ class CoinPresenter {
                 do {
                     let safeData = try JSONDecoder().decode(Coin.self, from: prettyJsonData)
                     let coins = safeData.data
-                    print(coins.description
+                    print(coins.description)
+                    self?.delegate?.presentCoins(coins: coins)
+         
