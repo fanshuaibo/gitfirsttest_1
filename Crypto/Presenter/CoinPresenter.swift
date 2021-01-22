@@ -43,4 +43,5 @@ class CoinPresenter {
                     let coins = safeData.data
                     print(coins.description)
                     self?.delegate?.presentCoins(coins: coins)
-         
+                } catch {
+                    self?.delegate?.didFailWithError(error: error)
