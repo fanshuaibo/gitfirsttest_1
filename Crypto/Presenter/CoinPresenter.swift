@@ -47,4 +47,10 @@ class CoinPresenter {
                     self?.delegate?.didFailWithError(error: error)
                 }
             } catch {
-                print("Error: Trying to 
+                print("Error: Trying to convert JSON data to string")
+                return
+            }
+        }
+        
+    }
+    
