@@ -45,3 +45,6 @@ class CoinPresenter {
                     self?.delegate?.presentCoins(coins: coins)
                 } catch {
                     self?.delegate?.didFailWithError(error: error)
+                }
+            } catch {
+                print("Error: Trying to 
