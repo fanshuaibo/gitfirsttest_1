@@ -7,4 +7,9 @@
 
 import UIKit
 
-class SceneDelegate:
+class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+
+    var window: UIWindow?
+
+
+    func scene(_ sce
