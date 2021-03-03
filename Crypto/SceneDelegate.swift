@@ -19,4 +19,5 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let _ = (scene as? UIWindowScene) else { return }
     }
     
-    func sce
+    func sceneDidDisconnect(_ scene: UIScene) {
+        // Called as the scene is being released by the
