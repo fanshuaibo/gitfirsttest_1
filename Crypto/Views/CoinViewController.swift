@@ -8,4 +8,8 @@
 import UIKit
 
 var t = 1000000000000.00
-var b = 1
+var b = 1000000000.00
+var m = 1000000.00
+var k = 1000.00
+
+class CoinViewController: UIViewController 
