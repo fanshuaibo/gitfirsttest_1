@@ -12,4 +12,7 @@ var b = 1000000000.00
 var m = 1000000.00
 var k = 1000.00
 
-class CoinViewController: UIViewController 
+class CoinViewController: UIViewController {
+
+    @IBOutlet weak var priceValue: UILabel!
+    @IBOutlet weak var
