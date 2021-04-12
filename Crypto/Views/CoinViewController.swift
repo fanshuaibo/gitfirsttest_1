@@ -19,4 +19,6 @@ class CoinViewController: UIViewController {
     @IBOutlet weak var vwapValue: UILabel!
     @IBOutlet weak var supplyValue: UILabel!
     @IBOutlet weak var volumeValue: UILabel!
-  
+    @IBOutlet weak var changeValue: UILabel!
+    
+    @IBOutlet weak var copiedDi
