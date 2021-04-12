@@ -15,4 +15,6 @@ var k = 1000.00
 class CoinViewController: UIViewController {
 
     @IBOutlet weak var priceValue: UILabel!
-    @IBOutlet weak var
+    @IBOutlet weak var marketCapValue: UILabel!
+    @IBOutlet weak var vwapValue: UILabel!
+  
