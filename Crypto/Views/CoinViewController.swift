@@ -17,4 +17,6 @@ class CoinViewController: UIViewController {
     @IBOutlet weak var priceValue: UILabel!
     @IBOutlet weak var marketCapValue: UILabel!
     @IBOutlet weak var vwapValue: UILabel!
+    @IBOutlet weak var supplyValue: UILabel!
+    @IBOutlet weak var volumeValue: UILabel!
   
