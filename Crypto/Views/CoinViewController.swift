@@ -26,3 +26,6 @@ class CoinViewController: UIViewController {
     var coin = Data()
     
     override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        title = "\(coin.name) (\(coin.symbol))"
