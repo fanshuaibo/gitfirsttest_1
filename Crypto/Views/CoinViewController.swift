@@ -21,4 +21,8 @@ class CoinViewController: UIViewController {
     @IBOutlet weak var volumeValue: UILabel!
     @IBOutlet weak var changeValue: UILabel!
     
-    @IBOutlet weak var copiedDi
+    @IBOutlet weak var copiedDisplay: UIView!
+    
+    var coin = Data()
+    
+    override func viewDidLoad() {
