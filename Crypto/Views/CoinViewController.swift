@@ -29,3 +29,5 @@ class CoinViewController: UIViewController {
         super.viewDidLoad()
         
         title = "\(coin.name) (\(coin.symbol))"
+        
+        UILabel.appearance(whenContainedInInstancesOf: [UINavigationBar.self]).adjustsF
