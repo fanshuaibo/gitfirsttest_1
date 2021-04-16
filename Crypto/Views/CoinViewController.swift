@@ -30,4 +30,6 @@ class CoinViewController: UIViewController {
         
         title = "\(coin.name) (\(coin.symbol))"
         
-        UILabel.appearance(whenContainedInInstancesOf: [UINavigationBar.self]).adjustsF
+        UILabel.appearance(whenContainedInInstancesOf: [UINavigationBar.self]).adjustsFontSizeToFitWidth = true
+        
+        priceValue.text = getPrecised(n
