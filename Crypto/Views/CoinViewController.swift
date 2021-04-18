@@ -33,4 +33,5 @@ class CoinViewController: UIViewController {
         UILabel.appearance(whenContainedInInstancesOf: [UINavigationBar.self]).adjustsFontSizeToFitWidth = true
         
         priceValue.text = getPrecised(number: coin.priceUsd!, label: "price")
-        marketCapValue.text 
+        marketCapValue.text = getPrecised(number: coin.marketCapUsd!, label: "market")
+        vwapValue.text = ge
