@@ -34,4 +34,5 @@ class CoinViewController: UIViewController {
         
         priceValue.text = getPrecised(number: coin.priceUsd!, label: "price")
         marketCapValue.text = getPrecised(number: coin.marketCapUsd!, label: "market")
-        vwapValue.text = ge
+        vwapValue.text = getPrecised(number: coin.vwap24Hr!, label: "vwap")
+        supplyValue.text = getPrecised
