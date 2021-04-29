@@ -40,4 +40,6 @@ class CoinViewController: UIViewController {
         changeValue.text = getPrecised(number: coin.changePercent24Hr!, label: "change")
     }
     
-    private func getPrecised(number
+    private func getPrecised(number: String, label: String) -> String {
+        if number == "" { return number }
+ 
