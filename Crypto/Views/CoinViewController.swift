@@ -42,4 +42,7 @@ class CoinViewController: UIViewController {
     
     private func getPrecised(number: String, label: String) -> String {
         if number == "" { return number }
- 
+        let converted = Double(number)!
+        
+        switch label {
+    
