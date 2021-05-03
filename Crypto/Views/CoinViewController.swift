@@ -45,4 +45,6 @@ class CoinViewController: UIViewController {
         let converted = Double(number)!
         
         switch label {
-    
+        case "change":
+            if converted < 0.0 {
+                changeVal
