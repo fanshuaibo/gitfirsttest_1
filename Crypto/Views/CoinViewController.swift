@@ -48,4 +48,7 @@ class CoinViewController: UIViewController {
         case "change":
             if converted < 0.0 {
                 changeValue.textColor = UIColor.red
-                return "\(String(format: "%.2f", 
+                return "\(String(format: "%.2f", converted))%"
+            } else {
+                changeValue.textColor = UIColor.green
+ 
