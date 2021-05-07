@@ -53,3 +53,7 @@ class CoinViewController: UIViewController {
                 changeValue.textColor = UIColor.green
                 return "+\(String(format: "%.2f", converted))%"
             }
+        case "supply":
+            return reduce(number: converted)
+        default:
+   
