@@ -56,4 +56,5 @@ class CoinViewController: UIViewController {
         case "supply":
             return reduce(number: converted)
         default:
-   
+             return "$\(reduce(number: converted))"
+ 
