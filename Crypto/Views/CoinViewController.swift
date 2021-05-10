@@ -57,4 +57,8 @@ class CoinViewController: UIViewController {
             return reduce(number: converted)
         default:
              return "$\(reduce(number: converted))"
- 
+        }
+    }
+    
+    private func reduce(number: Double) -> String {
+     
