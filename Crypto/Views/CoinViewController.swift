@@ -61,4 +61,6 @@ class CoinViewController: UIViewController {
     }
     
     private func reduce(number: Double) -> String {
-     
+        var temp = number
+        var sign = ""
+        if temp / t < 1000 && te
