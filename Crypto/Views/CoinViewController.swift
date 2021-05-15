@@ -71,4 +71,6 @@ class CoinViewController: UIViewController {
             sign = "b"
         } else if temp / m < 1000 && temp / m > 1 {
             temp = temp / m
-            s
+            sign = "m"
+        } else if temp / k < 1000 && temp / k > 1 {
+            temp = temp / 
