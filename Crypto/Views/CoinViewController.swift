@@ -76,4 +76,7 @@ class CoinViewController: UIViewController {
             temp = temp / k
             sign = "k"
         } else if temp < 1 {
-            return String(f
+            return String(format: "%.6f", temp)
+        }
+        
+        return "\(String(format: "%.2f", t
