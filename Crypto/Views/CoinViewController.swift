@@ -83,4 +83,7 @@ class CoinViewController: UIViewController {
     }
     
     @IBAction func exploreButtonPressed(_ sender: UIButton) {
- 
+        UIPasteboard.general.string = coin.explorer
+        copiedDisplay.isHidden = false
+        
+     
