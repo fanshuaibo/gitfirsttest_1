@@ -79,4 +79,8 @@ class CoinViewController: UIViewController {
             return String(format: "%.6f", temp)
         }
         
-        return "\(String(format: "%.2f", t
+        return "\(String(format: "%.2f", temp))\(sign)"
+    }
+    
+    @IBAction func exploreButtonPressed(_ sender: UIButton) {
+ 
