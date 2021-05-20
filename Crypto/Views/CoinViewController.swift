@@ -86,4 +86,5 @@ class CoinViewController: UIViewController {
         UIPasteboard.general.string = coin.explorer
         copiedDisplay.isHidden = false
         
-     
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
+            self
