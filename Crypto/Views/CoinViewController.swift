@@ -87,4 +87,8 @@ class CoinViewController: UIViewController {
         copiedDisplay.isHidden = false
         
         DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
-            self
+            self.copiedDisplay.isHidden = true
+        }
+    }
+
+}
