@@ -6,4 +6,8 @@
 //
 
 import UIKit
-imp
+import Firebase
+
+class LoginViewController: UIViewController {
+
+    @IBOutlet weak var emailText
