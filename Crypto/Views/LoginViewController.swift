@@ -19,4 +19,5 @@ class LoginViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    @IBAction func loginButtonPressed(_ s
+    @IBAction func loginButtonPressed(_ sender: UIButton) {
+        if let email = emailTextField.text, let p
