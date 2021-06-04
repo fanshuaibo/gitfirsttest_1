@@ -26,4 +26,9 @@ class LoginViewController: UIViewController {
                     print(e.localizedDescription)
                 } else {
                     self.performSegue(withIdentifier: "goToMain2", sender: self)
-  
+                }
+            }
+        }
+    }
+
+}
