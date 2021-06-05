@@ -6,4 +6,8 @@
 //
 
 import UIKit
-import F
+import Firebase
+
+class RegisterViewController: UIViewController {
+
+    @IBOutl
