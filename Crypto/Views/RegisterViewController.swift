@@ -11,4 +11,9 @@ import Firebase
 class RegisterViewController: UIViewController {
 
     @IBOutlet weak var emailTextField: UITextField!
-    @IBOutlet weak var passwordTextField: U
+    @IBOutlet weak var passwordTextField: UITextField!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        //
