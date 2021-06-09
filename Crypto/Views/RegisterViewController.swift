@@ -19,4 +19,5 @@ class RegisterViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    @IBAction func re
+    @IBAction func registerButtonPressed(_ sender: UIButton) {
+        if let email = emailTe
