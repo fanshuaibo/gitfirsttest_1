@@ -24,4 +24,5 @@ class RegisterViewController: UIViewController {
             Auth.auth().createUser(withEmail: email, password: password) { _ , error in
                 if let e = error {
                     print(e.localizedDescription.description)
-   
+                } else {
+                    self.performSegue(withIdentifie
