@@ -25,4 +25,10 @@ class RegisterViewController: UIViewController {
                 if let e = error {
                     print(e.localizedDescription.description)
                 } else {
-                    self.performSegue(withIdentifie
+                    self.performSegue(withIdentifier: "goToMain1", sender: self)
+                }
+            }
+        }
+    }
+    
+}
