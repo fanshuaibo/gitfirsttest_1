@@ -8,4 +8,5 @@
 
 /* Begin PBXBuildFile section */
 		BA0AC6FC280B6FD8000E160B /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0AC6FB280B6FD8000E160B /* ListViewController.swift */; };
-		BA0AC6FE280B74EA000E160B /* CoinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0AC6FD280B74EA000E160B /* CoinViewContr
+		BA0AC6FE280B74EA000E160B /* CoinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0AC6FD280B74EA000E160B /* CoinViewController.swift */; };
+		BA0AC701280B7F08000E160B /* CoinCell.swift in Sources */ = {i
