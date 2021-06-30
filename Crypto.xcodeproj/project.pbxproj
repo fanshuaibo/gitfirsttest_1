@@ -11,4 +11,5 @@
 		BA0AC6FE280B74EA000E160B /* CoinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0AC6FD280B74EA000E160B /* CoinViewController.swift */; };
 		BA0AC701280B7F08000E160B /* CoinCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0AC6FF280B7F08000E160B /* CoinCell.swift */; };
 		BA0AC702280B7F08000E160B /* CoinCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA0AC700280B7F08000E160B /* CoinCell.xib */; };
-		BA12CB56283AF2F600AB95A8 /* RegisterViewController.swift in Sources */ = {isa = PBXB
+		BA12CB56283AF2F600AB95A8 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA12CB55283AF2F600AB95A8 /* RegisterViewController.swift */; };
+		BA12CB5
