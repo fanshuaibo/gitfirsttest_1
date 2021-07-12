@@ -17,4 +17,5 @@
 		BA12CB5D283AF68100AB95A8 /* FirebaseAuthCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB5C283AF68100AB95A8 /* FirebaseAuthCombine-Community */; };
 		BA12CB5F283AF68100AB95A8 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB5E283AF68100AB95A8 /* FirebaseDatabase */; };
 		BA12CB61283AF68100AB95A8 /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB60283AF68100AB95A8 /* FirebaseDatabaseSwift */; };
-		BA12CB63283AF68100AB95A8 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = BA1
+		BA12CB63283AF68100AB95A8 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB62283AF68100AB95A8 /* FirebaseFirestore */; };
+		BA12CB65283AF68100AB95A
