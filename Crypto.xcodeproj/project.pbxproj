@@ -19,4 +19,5 @@
 		BA12CB61283AF68100AB95A8 /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB60283AF68100AB95A8 /* FirebaseDatabaseSwift */; };
 		BA12CB63283AF68100AB95A8 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB62283AF68100AB95A8 /* FirebaseFirestore */; };
 		BA12CB65283AF68100AB95A8 /* FirebaseFirestoreCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB64283AF68100AB95A8 /* FirebaseFirestoreCombine-Community */; };
-		BA12CB67283AF68100AB95A8 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB66283AF68100AB95A8 /* F
+		BA12CB67283AF68100AB95A8 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB66283AF68100AB95A8 /* FirebaseFirestoreSwift */; };
+		BA12CB69283AF68100AB95A8 /* FirebaseStorage in Frameworks 
