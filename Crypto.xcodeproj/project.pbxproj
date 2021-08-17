@@ -26,4 +26,5 @@
 		BA12CB72283AFFD600AB95A8 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = BA12CB71283AFFD600AB95A8 /* Alamofire */; };
 		BAF44A14280AC9F000F39A19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF44A13280AC9F000F39A19 /* AppDelegate.swift */; };
 		BAF44A16280AC9F000F39A19 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF44A15280AC9F000F39A19 /* SceneDelegate.swift */; };
-		BAF44A1B280AC9F000F39A19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF44
+		BAF44A1B280AC9F000F39A19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A19280AC9F000F39A19 /* Main.storyboard */; };
+		BAF44A1D280AC9F200F39A19 /* Assets.xcassets in 
