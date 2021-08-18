@@ -28,4 +28,4 @@
 		BAF44A16280AC9F000F39A19 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF44A15280AC9F000F39A19 /* SceneDelegate.swift */; };
 		BAF44A1B280AC9F000F39A19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A19280AC9F000F39A19 /* Main.storyboard */; };
 		BAF44A1D280AC9F200F39A19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A1C280AC9F200F39A19 /* Assets.xcassets */; };
-		BAF44A20280AC9F200F39A19 /* LaunchScreen.storyboard in Reso
+		BAF44A20280AC9F200F39A19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A1E280AC9F200F39A19 /* LaunchScreen.story
