@@ -29,4 +29,5 @@
 		BAF44A1B280AC9F000F39A19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A19280AC9F000F39A19 /* Main.storyboard */; };
 		BAF44A1D280AC9F200F39A19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A1C280AC9F200F39A19 /* Assets.xcassets */; };
 		BAF44A20280AC9F200F39A19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A1E280AC9F200F39A19 /* LaunchScreen.storyboard */; };
-		BAF44A2B280B5F6600F39A19 /* CoinPresenter.swift in Sources */ = {isa = PB
+		BAF44A2B280B5F6600F39A19 /* CoinPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF44A2A280B5F6600F39A19 /* CoinPresenter.swift */; };
+		B
