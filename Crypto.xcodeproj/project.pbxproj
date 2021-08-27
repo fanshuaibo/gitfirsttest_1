@@ -33,4 +33,5 @@
 		BAF44A2D280B5FDD00F39A19 /* Coin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF44A2C280B5FDD00F39A19 /* Coin.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXFile
+/* Begin PBXFileReference section */
+		BA0AC6FB280B6FD8000E160B /* ListViewController.swift */ = {is
