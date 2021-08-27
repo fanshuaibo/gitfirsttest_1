@@ -30,4 +30,7 @@
 		BAF44A1D280AC9F200F39A19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A1C280AC9F200F39A19 /* Assets.xcassets */; };
 		BAF44A20280AC9F200F39A19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAF44A1E280AC9F200F39A19 /* LaunchScreen.storyboard */; };
 		BAF44A2B280B5F6600F39A19 /* CoinPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF44A2A280B5F6600F39A19 /* CoinPresenter.swift */; };
-		BAF44A2D280B5FDD00F39A19 /* Coin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF44A
+		BAF44A2D280B5FDD00F39A19 /* Coin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAF44A2C280B5FDD00F39A19 /* Coin.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFile
