@@ -34,4 +34,5 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BA0AC6FB280B6FD8000E160B /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift
+		BA0AC6FB280B6FD8000E160B /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		BA0AC6FD280B74EA000E160B /* CoinViewControl
