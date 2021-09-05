@@ -36,4 +36,5 @@
 /* Begin PBXFileReference section */
 		BA0AC6FB280B6FD8000E160B /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		BA0AC6FD280B74EA000E160B /* CoinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinViewController.swift; sourceTree = "<group>"; };
-		BA0AC6FF280B7F08000E160B /* CoinCell.swift */ = {isa = PBXFileReference; lastKnownFileType = 
+		BA0AC6FF280B7F08000E160B /* CoinCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinCell.swift; sourceTree = "<group>"; };
+		BA0
