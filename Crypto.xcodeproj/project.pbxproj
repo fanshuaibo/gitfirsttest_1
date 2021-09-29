@@ -40,4 +40,4 @@
 		BA0AC700280B7F08000E160B /* CoinCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CoinCell.xib; sourceTree = "<group>"; };
 		BA12CB55283AF2F600AB95A8 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		BA12CB57283AF2FD00AB95A8 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		BA12CB6E283AFC1900AB95A8 /* GoogleService-Info.plist */ = {isa = PBXFileReference;
+		BA12CB6E283AFC1900AB95A8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Googl
