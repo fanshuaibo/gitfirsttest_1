@@ -42,4 +42,5 @@
 		BA12CB57283AF2FD00AB95A8 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		BA12CB6E283AFC1900AB95A8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		BAF44A10280AC9F000F39A19 /* Crypto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Crypto.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BAF44A13280AC9F000F39A19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourceco
+		BAF44A13280AC9F000F39A19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BAF44A15280AC
