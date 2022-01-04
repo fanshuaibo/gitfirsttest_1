@@ -49,4 +49,5 @@
 		BAF44A1F280AC9F200F39A19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BAF44A21280AC9F200F39A19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BAF44A2A280B5F6600F39A19 /* CoinPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinPresenter.swift; sourceTree = "<group>"; };
-		BAF44A2C280B5FDD00F39A19 /* Coin.swift */ = {isa = PBXFileReference; lastKnownFileType
+		BAF44A2C280B5FDD00F39A19 /* Coin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coin.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section
