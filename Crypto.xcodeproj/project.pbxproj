@@ -53,4 +53,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BAF44A0D280AC9F000F39A19 /* 
+		BAF44A0D280AC9F000F39A19 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 
