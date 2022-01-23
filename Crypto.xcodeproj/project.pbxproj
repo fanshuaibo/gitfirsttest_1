@@ -57,4 +57,5 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA12CB61283AF68100AB95A8 /* FirebaseData
+				BA12CB61283AF68100AB95A8 /* FirebaseDatabaseSwift in Frameworks */,
+				BA12CB5F283AF68100AB95A8 /* FirebaseDatabase in Frameworks *
