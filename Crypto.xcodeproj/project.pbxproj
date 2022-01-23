@@ -55,4 +55,6 @@
 /* Begin PBXFrameworksBuildPhase section */
 		BAF44A0D280AC9F000F39A19 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 
+			buildActionMask = 2147483647;
+			files = (
+				BA12CB61283AF68100AB95A8 /* FirebaseData
