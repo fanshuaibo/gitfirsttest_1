@@ -60,4 +60,5 @@
 				BA12CB61283AF68100AB95A8 /* FirebaseDatabaseSwift in Frameworks */,
 				BA12CB5F283AF68100AB95A8 /* FirebaseDatabase in Frameworks */,
 				BA12CB5B283AF68100AB95A8 /* FirebaseAuth in Frameworks */,
-				BA12CB67283AF681
+				BA12CB67283AF68100AB95A8 /* FirebaseFirestoreSwift in Frameworks */,
+				BA12CB65283AF68100AB95A8 /*
