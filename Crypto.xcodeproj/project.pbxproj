@@ -65,4 +65,5 @@
 				BA12CB72283AFFD600AB95A8 /* Alamofire in Frameworks */,
 				BA12CB69283AF68100AB95A8 /* FirebaseStorage in Frameworks */,
 				BA12CB63283AF68100AB95A8 /* FirebaseFirestore in Frameworks */,
-				BA12CB
+				BA12CB6B283AF68100AB95A8 /* FirebaseStorageCombine-Community in Frameworks */,
+				BA12CB5D283AF68100AB9
