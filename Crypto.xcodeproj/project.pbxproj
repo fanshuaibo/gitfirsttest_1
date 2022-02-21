@@ -68,4 +68,8 @@
 				BA12CB6B283AF68100AB95A8 /* FirebaseStorageCombine-Community in Frameworks */,
 				BA12CB5D283AF68100AB95A8 /* FirebaseAuthCombine-Community in Frameworks */,
 			);
-			runOnlyForDeploymentPo
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup sect
