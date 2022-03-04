@@ -89,4 +89,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BAF44A12280AC9F000F39A19 /* C
+		BAF44A12280AC9F000F39A19 /* Crypto */ = {
+			isa = PBXGroup;
+			children = (
+				BAF44A13280AC9F000F39A19 /* AppDelegate.swi
