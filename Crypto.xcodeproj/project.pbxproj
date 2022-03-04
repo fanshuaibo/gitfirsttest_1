@@ -85,4 +85,8 @@
 			isa = PBXGroup;
 			children = (
 				BAF44A10280AC9F000F39A19 /* Crypto.app */,
-	
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BAF44A12280AC9F000F39A19 /* C
