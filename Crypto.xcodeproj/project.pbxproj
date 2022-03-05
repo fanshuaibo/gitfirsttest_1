@@ -92,4 +92,6 @@
 		BAF44A12280AC9F000F39A19 /* Crypto */ = {
 			isa = PBXGroup;
 			children = (
-				BAF44A13280AC9F000F39A19 /* AppDelegate.swi
+				BAF44A13280AC9F000F39A19 /* AppDelegate.swift */,
+				BAF44A15280AC9F000F39A19 /* SceneDelegate.swift */,
+				BAF44A28280
