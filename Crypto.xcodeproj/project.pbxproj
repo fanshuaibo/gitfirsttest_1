@@ -104,4 +104,9 @@
 				BA12CB6E283AFC1900AB95A8 /* GoogleService-Info.plist */,
 			);
 			path = Crypto;
-			sourceTree = "<group>"
+			sourceTree = "<group>";
+		};
+		BAF44A27280B5F2900F39A19 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BA0AC6F
