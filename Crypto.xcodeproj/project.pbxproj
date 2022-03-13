@@ -101,4 +101,7 @@
 				BAF44A1C280AC9F200F39A19 /* Assets.xcassets */,
 				BAF44A1E280AC9F200F39A19 /* LaunchScreen.storyboard */,
 				BAF44A21280AC9F200F39A19 /* Info.plist */,
-				BA12CB6E283AFC1900AB95A8 /* Go
+				BA12CB6E283AFC1900AB95A8 /* GoogleService-Info.plist */,
+			);
+			path = Crypto;
+			sourceTree = "<group>"
