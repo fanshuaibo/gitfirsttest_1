@@ -119,4 +119,6 @@
 		};
 		BAF44A28280B5F3E00F39A19 /* Model */ = {
 			isa = PBXGroup;
-			children
+			children = (
+				BAF44A2C280B5FDD00F39A19 /* Coin.swift */,
+				BA0AC6FF280B7F08000E160B /* Coin
