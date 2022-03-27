@@ -115,4 +115,8 @@
 				BA0AC6FD280B74EA000E160B /* CoinViewController.swift */,
 			);
 			path = Views;
-			sourceTree =
+			sourceTree = "<group>";
+		};
+		BAF44A28280B5F3E00F39A19 /* Model */ = {
+			isa = PBXGroup;
+			children
