@@ -123,4 +123,8 @@
 				BAF44A2C280B5FDD00F39A19 /* Coin.swift */,
 				BA0AC6FF280B7F08000E160B /* CoinCell.swift */,
 				BA0AC700280B7F08000E160B /* CoinCell.xib */,
-		
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BAF44A29280B5F4300F39
