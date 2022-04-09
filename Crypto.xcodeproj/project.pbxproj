@@ -130,4 +130,8 @@
 		BAF44A29280B5F4300F39A19 /* Presenter */ = {
 			isa = PBXGroup;
 			children = (
-				BAF44A
+				BAF44A2A280B5F6600F39A19 /* CoinPresenter.swift */,
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+	
