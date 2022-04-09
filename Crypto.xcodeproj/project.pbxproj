@@ -134,4 +134,8 @@
 			);
 			path = Presenter;
 			sourceTree = "<group>";
-	
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B
