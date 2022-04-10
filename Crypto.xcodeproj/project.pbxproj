@@ -140,4 +140,4 @@
 /* Begin PBXNativeTarget section */
 		BAF44A0F280AC9F000F39A19 /* Crypto */ = {
 			isa = PBXNativeTarget;
-			buildCon
+			buildConfigurationList = BAF44A24280AC9F200F39A19 /* Build configuration 
