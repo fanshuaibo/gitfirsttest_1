@@ -144,4 +144,9 @@
 			buildPhases = (
 				BAF44A0C280AC9F000F39A19 /* Sources */,
 				BAF44A0D280AC9F000F39A19 /* Frameworks */,
-				BAF44A0E280AC9F000F3
+				BAF44A0E280AC9F000F39A19 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
