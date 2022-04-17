@@ -142,4 +142,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BAF44A24280AC9F200F39A19 /* Build configuration list for PBXNativeTarget "Crypto" */;
 			buildPhases = (
-				BAF44A0C280AC9F000F39A19 /* So
+				BAF44A0C280AC9F000F39A19 /* Sources */,
+				BAF44A0D280AC9F000F39A19 /* Frameworks */,
+				BAF44A0E280AC9F000F3
