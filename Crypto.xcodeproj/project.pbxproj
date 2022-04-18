@@ -150,3 +150,6 @@
 			);
 			dependencies = (
 			);
+			name = Crypto;
+			packageProductDependencies = (
+				BA12CB5A283AF68100AB95A8 /* FirebaseAuth */
