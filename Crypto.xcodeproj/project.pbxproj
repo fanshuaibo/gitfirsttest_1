@@ -158,4 +158,5 @@
 				BA12CB60283AF68100AB95A8 /* FirebaseDatabaseSwift */,
 				BA12CB62283AF68100AB95A8 /* FirebaseFirestore */,
 				BA12CB64283AF68100AB95A8 /* FirebaseFirestoreCombine-Community */,
-				BA12CB66283AF68100AB9
+				BA12CB66283AF68100AB95A8 /* FirebaseFirestoreSwift */,
+				BA12CB68283AF68100AB95A8 /* Fire
