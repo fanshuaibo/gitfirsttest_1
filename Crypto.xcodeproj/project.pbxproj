@@ -161,4 +161,7 @@
 				BA12CB66283AF68100AB95A8 /* FirebaseFirestoreSwift */,
 				BA12CB68283AF68100AB95A8 /* FirebaseStorage */,
 				BA12CB6A283AF68100AB95A8 /* FirebaseStorageCombine-Community */,
-				
+				BA12CB71283AFFD600AB95A8 /* Alamofire */,
+			);
+			productName = Crypto;
+			productRef
