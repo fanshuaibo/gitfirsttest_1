@@ -164,4 +164,5 @@
 				BA12CB71283AFFD600AB95A8 /* Alamofire */,
 			);
 			productName = Crypto;
-			productRef
+			productReference = BAF44A10280AC9F000F39A19 /* Crypto.app */;
+			productType = "com.appl
