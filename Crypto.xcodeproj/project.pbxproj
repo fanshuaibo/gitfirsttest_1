@@ -165,4 +165,8 @@
 			);
 			productName = Crypto;
 			productReference = BAF44A10280AC9F000F39A19 /* Crypto.app */;
-			productType = "com.appl
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXPro
