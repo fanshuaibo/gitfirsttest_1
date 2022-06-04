@@ -169,4 +169,6 @@
 		};
 /* End PBXNativeTarget section */
 
-/* Begin PBXPro
+/* Begin PBXProject section */
+		BAF44A08280AC9F000F39A19 /* Project object */ = {
+			isa = PBXPro
