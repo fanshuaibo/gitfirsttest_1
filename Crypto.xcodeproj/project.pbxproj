@@ -171,4 +171,7 @@
 
 /* Begin PBXProject section */
 		BAF44A08280AC9F000F39A19 /* Project object */ = {
-			isa = PBXPro
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSw
