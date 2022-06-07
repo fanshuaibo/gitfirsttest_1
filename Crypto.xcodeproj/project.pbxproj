@@ -182,4 +182,4 @@
 					};
 				};
 			};
-			bu
+			buildConfigurationList = BAF44A0B280AC9F000F39A19 /* Build configuration list
