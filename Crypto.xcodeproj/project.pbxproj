@@ -187,3 +187,8 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BAF44A07280AC9F000F39A19;
+			packageReferences 
