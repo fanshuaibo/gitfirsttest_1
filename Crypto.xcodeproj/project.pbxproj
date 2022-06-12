@@ -184,4 +184,6 @@
 			};
 			buildConfigurationList = BAF44A0B280AC9F000F39A19 /* Build configuration list for PBXProject "Crypto" */;
 			compatibilityVersion = "Xcode 13.0";
-			devel
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
