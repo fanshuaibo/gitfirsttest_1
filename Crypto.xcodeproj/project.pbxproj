@@ -191,4 +191,5 @@
 				Base,
 			);
 			mainGroup = BAF44A07280AC9F000F39A19;
-			packageReferences 
+			packageReferences = (
+				BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-s
