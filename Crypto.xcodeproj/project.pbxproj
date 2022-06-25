@@ -192,4 +192,7 @@
 			);
 			mainGroup = BAF44A07280AC9F000F39A19;
 			packageReferences = (
-				BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-s
+				BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				BA12CB70283AFFD600AB95A8 /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
+	
