@@ -197,4 +197,8 @@
 			);
 			productRefGroup = BAF44A11280AC9F000F39A19 /* Products */;
 			projectDirPath = "";
-			pr
+			projectRoot = "";
+			targets = (
+				BAF44A0F280AC9F000F39A19 /* Crypto */,
+			);
+	
