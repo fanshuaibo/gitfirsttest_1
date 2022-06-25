@@ -195,4 +195,6 @@
 				BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 				BA12CB70283AFFD600AB95A8 /* XCRemoteSwiftPackageReference "Alamofire" */,
 			);
-	
+			productRefGroup = BAF44A11280AC9F000F39A19 /* Products */;
+			projectDirPath = "";
+			pr
