@@ -201,4 +201,8 @@
 			targets = (
 				BAF44A0F280AC9F000F39A19 /* Crypto */,
 			);
-	
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BAF44
