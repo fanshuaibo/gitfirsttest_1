@@ -205,4 +205,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BAF44
+		BAF44A0E280AC9F000F39A19 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buil
