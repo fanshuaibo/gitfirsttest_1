@@ -209,4 +209,5 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BAF44A20280AC9F200F39A19 /* LaunchScre
+				BAF44A20280AC9F200F39A19 /* LaunchScreen.storyboard in Resources */,
+				BA12CB6F283AFC1900AB95A8 /* GoogleService-Info
