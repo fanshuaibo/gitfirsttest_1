@@ -207,4 +207,6 @@
 /* Begin PBXResourcesBuildPhase section */
 		BAF44A0E280AC9F000F39A19 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-			buil
+			buildActionMask = 2147483647;
+			files = (
+				BAF44A20280AC9F200F39A19 /* LaunchScre
