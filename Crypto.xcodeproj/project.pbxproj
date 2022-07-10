@@ -213,4 +213,6 @@
 				BA12CB6F283AFC1900AB95A8 /* GoogleService-Info.plist in Resources */,
 				BAF44A1D280AC9F200F39A19 /* Assets.xcassets in Resources */,
 				BA0AC702280B7F08000E160B /* CoinCell.xib in Resources */,
-				BAF44A1B2
+				BAF44A1B280AC9F000F39A19 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing =
