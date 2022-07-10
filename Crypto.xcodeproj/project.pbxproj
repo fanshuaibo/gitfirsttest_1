@@ -215,4 +215,8 @@
 				BA0AC702280B7F08000E160B /* CoinCell.xib in Resources */,
 				BAF44A1B280AC9F000F39A19 /* Main.storyboard in Resources */,
 			);
-			runOnlyForDeploymentPostprocessing =
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase sectio
