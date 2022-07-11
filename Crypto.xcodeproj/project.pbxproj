@@ -219,4 +219,6 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXSourcesBuildPhase sectio
+/* Begin PBXSourcesBuildPhase section */
+		BAF44A0C280AC9F000F39A19 /* Sources */ = {
+			isa = PBXSourcesBuildP
