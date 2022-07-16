@@ -221,4 +221,7 @@
 
 /* Begin PBXSourcesBuildPhase section */
 		BAF44A0C280AC9F000F39A19 /* Sources */ = {
-			isa = PBXSourcesBuildP
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA12CB56283AF2F600AB95A8 /* Reg
