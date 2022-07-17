@@ -224,4 +224,5 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA12CB56283AF2F600AB95A8 /* Reg
+				BA12CB56283AF2F600AB95A8 /* RegisterViewController.swift in Sources */,
+				BA0AC6FE280B74EA000E160B /* CoinViewCont
