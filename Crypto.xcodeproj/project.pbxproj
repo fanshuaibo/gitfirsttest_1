@@ -229,4 +229,5 @@
 				BAF44A14280AC9F000F39A19 /* AppDelegate.swift in Sources */,
 				BA0AC701280B7F08000E160B /* CoinCell.swift in Sources */,
 				BAF44A2D280B5FDD00F39A19 /* Coin.swift in Sources */,
-				BAF44A2B280B5F6600F39
+				BAF44A2B280B5F6600F39A19 /* CoinPresenter.swift in Sources */,
+				BA0AC6FC280B6FD8000E160B 
