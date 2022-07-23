@@ -226,4 +226,6 @@
 			files = (
 				BA12CB56283AF2F600AB95A8 /* RegisterViewController.swift in Sources */,
 				BA0AC6FE280B74EA000E160B /* CoinViewController.swift in Sources */,
-				BAF44A14280AC9F000F39A19 /* AppDelegate.swift in Source
+				BAF44A14280AC9F000F39A19 /* AppDelegate.swift in Sources */,
+				BA0AC701280B7F08000E160B /* CoinCell.swift in Sources */,
+				BA
