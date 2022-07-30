@@ -239,4 +239,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		BAF44A19280AC9F000F
+		BAF44A19280AC9F000F39A19 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B
