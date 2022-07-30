@@ -232,4 +232,8 @@
 				BAF44A2B280B5F6600F39A19 /* CoinPresenter.swift in Sources */,
 				BA0AC6FC280B6FD8000E160B /* ListViewController.swift in Sources */,
 				BA12CB58283AF2FD00AB95A8 /* LoginViewController.swift in Sources */,
-				BAF44A16280AC9F000F39A19 /* SceneDelegate.swift in Sour
+				BAF44A16280AC9F000F39A19 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSou
