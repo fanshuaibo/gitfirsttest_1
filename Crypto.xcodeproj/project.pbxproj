@@ -242,4 +242,7 @@
 		BAF44A19280AC9F000F39A19 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				B
+				BAF44A1A280AC9F000F39A19 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree 
