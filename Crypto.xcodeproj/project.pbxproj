@@ -245,4 +245,7 @@
 				BAF44A1A280AC9F000F39A19 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree 
+			sourceTree = "<group>";
+		};
+		BAF44A1E280AC9F200F39A19 /* LaunchScreen.storyboard */ = {
+			isa = PB
