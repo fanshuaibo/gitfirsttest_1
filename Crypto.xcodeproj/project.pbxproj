@@ -248,4 +248,8 @@
 			sourceTree = "<group>";
 		};
 		BAF44A1E280AC9F200F39A19 /* LaunchScreen.storyboard */ = {
-			isa = PB
+			isa = PBXVariantGroup;
+			children = (
+				BAF44A1F280AC9F200F39A19 /* Base */,
+			);
+			name
