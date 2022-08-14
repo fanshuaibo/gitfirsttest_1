@@ -252,4 +252,7 @@
 			children = (
 				BAF44A1F280AC9F200F39A19 /* Base */,
 			);
-			name
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup sectio
