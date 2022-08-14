@@ -255,4 +255,8 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-/* End PBXVariantGroup sectio
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BAF44A22280AC9F200F39A19 /* Debug */ = {
+			isa 
