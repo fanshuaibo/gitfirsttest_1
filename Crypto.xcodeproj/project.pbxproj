@@ -259,4 +259,6 @@
 
 /* Begin XCBuildConfiguration section */
 		BAF44A22280AC9F200F39A19 /* Debug */ = {
-			isa 
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USE
