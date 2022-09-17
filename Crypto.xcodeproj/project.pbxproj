@@ -318,4 +318,6 @@
 			};
 			name = Debug;
 		};
-		BAF44A2
+		BAF44A23280AC9F200F39A19 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings 
