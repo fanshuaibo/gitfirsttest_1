@@ -320,4 +320,7 @@
 		};
 		BAF44A23280AC9F200F39A19 /* Release */ = {
 			isa = XCBuildConfiguration;
-			buildSettings 
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANAL
