@@ -372,4 +372,7 @@
 			};
 			name = Release;
 		};
-		BAF44A25280AC9F200
+		BAF44A25280AC9F200F39A19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG
