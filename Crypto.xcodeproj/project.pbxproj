@@ -402,4 +402,7 @@
 			name = Debug;
 		};
 		BAF44A26280AC9F200F39A19 /* Release */ = {
-			isa = XCB
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATAL
