@@ -411,4 +411,6 @@
 				DEVELOPMENT_TEAM = PUN6FCNP6D;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Crypto/Info.plist;
-				INFOPLIST_KEY_UIApplicationSup
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				
