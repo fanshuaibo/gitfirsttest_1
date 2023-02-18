@@ -436,4 +436,6 @@
 		BAF44A0B280AC9F000F39A19 /* Build configuration list for PBXProject "Crypto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BAF
+				BAF44A22280AC9F200F39A19 /* Debug */,
+				BAF44A23280AC9F200F39A19 /* Release */,
+		
