@@ -438,4 +438,6 @@
 			buildConfigurations = (
 				BAF44A22280AC9F200F39A19 /* Debug */,
 				BAF44A23280AC9F200F39A19 /* Release */,
-		
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release
