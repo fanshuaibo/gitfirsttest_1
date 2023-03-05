@@ -440,4 +440,6 @@
 				BAF44A23280AC9F200F39A19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release
+			defaultConfigurationName = Release;
+		};
+		BAF44A24280AC9F200F39A19 /* Build configuration list for PBXNativeTarget "Crypto
