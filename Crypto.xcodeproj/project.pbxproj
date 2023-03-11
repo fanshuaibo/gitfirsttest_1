@@ -445,4 +445,7 @@
 		BAF44A24280AC9F200F39A19 /* Build configuration list for PBXNativeTarget "Crypto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BAF44A25280AC9F200F
+				BAF44A25280AC9F200F39A19 /* Debug */,
+				BAF44A26280AC9F200F39A19 /* Release */,
+			);
+			defaultConfiguratio
