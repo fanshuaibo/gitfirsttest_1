@@ -448,4 +448,7 @@
 				BAF44A25280AC9F200F39A19 /* Debug */,
 				BAF44A26280AC9F200F39A19 /* Release */,
 			);
-			defaultConfiguratio
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationLi
