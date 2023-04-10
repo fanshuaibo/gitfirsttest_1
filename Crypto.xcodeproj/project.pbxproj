@@ -463,4 +463,5 @@
 			};
 		};
 		BA12CB70283AFFD600AB95A8 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
-			
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofi
