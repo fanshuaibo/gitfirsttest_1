@@ -461,3 +461,6 @@
 				kind = upToNextMajorVersion;
 				minimumVersion = 9.0.0;
 			};
+		};
+		BA12CB70283AFFD600AB95A8 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			
