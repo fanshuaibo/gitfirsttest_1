@@ -470,4 +470,6 @@
 				minimumVersion = 5.0.0;
 			};
 		};
-/* End XCRemoteSwiftPa
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section *
