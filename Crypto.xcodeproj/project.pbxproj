@@ -475,4 +475,7 @@
 /* Begin XCSwiftPackageProductDependency section */
 		BA12CB5A283AF68100AB95A8 /* FirebaseAuth */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackag
+			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		B
