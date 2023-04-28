@@ -481,4 +481,7 @@
 		BA12CB5C283AF68100AB95A8 /* FirebaseAuthCombine-Community */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = "FirebaseAuthCombine-Community"
+			productName = "FirebaseAuthCombine-Community";
+		};
+		BA12CB5E283AF68100AB95A8 /* FirebaseDatabase */ = {
+			isa
