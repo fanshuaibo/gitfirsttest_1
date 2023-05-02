@@ -490,4 +490,7 @@
 		};
 		BA12CB60283AF68100AB95A8 /* FirebaseDatabaseSwift */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "fi
+			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabaseSwift;
+		};
+		BA
