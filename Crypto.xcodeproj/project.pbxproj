@@ -500,4 +500,6 @@
 		};
 		BA12CB64283AF68100AB95A8 /* FirebaseFirestoreCombine-Community */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageRefer
+			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseFirestoreCombine-Community";
+		};
