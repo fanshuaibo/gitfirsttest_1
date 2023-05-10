@@ -504,4 +504,5 @@
 			productName = "FirebaseFirestoreCombine-Community";
 		};
 		BA12CB66283AF68100AB95A8 /* FirebaseFirestoreSwift */ = {
-			isa = XCSwiftPackageProductDepen
+			isa = XCSwiftPackageProductDependency;
+			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-
