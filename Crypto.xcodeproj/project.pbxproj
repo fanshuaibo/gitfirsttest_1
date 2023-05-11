@@ -510,3 +510,4 @@
 		};
 		BA12CB68283AF68100AB95A8 /* FirebaseStorage */ = {
 			isa = XCSwiftPackageProductDependency;
+			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios
