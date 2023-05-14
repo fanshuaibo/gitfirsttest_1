@@ -513,4 +513,6 @@
 			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseStorage;
 		};
-		BA12CB6A283AF68100AB95A8 /* 
+		BA12CB6A283AF68100AB95A8 /* FirebaseStorageCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BA
