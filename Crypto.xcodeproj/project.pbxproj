@@ -520,3 +520,4 @@
 		};
 		BA12CB71283AFFD600AB95A8 /* Alamofire */ = {
 			isa = XCSwiftPackageProductDependency;
+			package = BA12CB70283AFFD600AB95A8 /* XCRemoteSwiftPackageReference "Alamofire" */;
