@@ -518,4 +518,5 @@
 			package = BA12CB59283AF68100AB95A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = "FirebaseStorageCombine-Community";
 		};
-		BA12CB71283AFFD600AB95A8 
+		BA12CB71283AFFD600AB95A8 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
