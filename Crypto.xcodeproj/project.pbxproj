@@ -523,4 +523,7 @@
 			package = BA12CB70283AFFD600AB95A8 /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
 		};
-/* End XCSwiftPackageProductDependency 
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = BAF44A08280AC9F000F39A19 /* Project object */;
+}
